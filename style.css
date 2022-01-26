@@ -1,0 +1,31 @@
+.heading{
+width:100%;
+text-align:left;
+height:5%;
+}
+.btn-warning{
+    background-color:rgb(214, 133, 34) ;
+    float:right;
+}
+.heading h3{
+    display:inline
+}
+body{
+    background:url("background.jpg")
+}
+.Start{
+font-size: 20px;
+}
+.instruction_image{
+    display:inline-block;
+    width:40%;
+}
+.modal-dialog{
+    width:95%;
+    text-align: center;
+}
+video{
+    background:url("game_console.png");
+    background-size:cover;
+    background-position:center;
+}
